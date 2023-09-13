@@ -139,3 +139,22 @@
   ![](<https://www.investopedia.com/thmb/uRcNRy7yHRkZ7r5Gewiz9Uyr21M=/4000x2700/filters:no_upscale():max_bytes(150000):strip_icc()/crypto-token.asp-v5-6774f213bd3b4deaac537f196990edff.png>)
 
 ### Token Standards
+
+##### _Token standards are responsible for setting rules that are to be followed while creating new tokens and also the behaviour of the token created using the particular token standard_
+
+- Token standards set out the parameters within which smart contracts must operate in order to perform basic functions on a blockchain protocol.
+
+### Some token standards in Ethereum include:
+
+- #### ERC20:
+  - ERC-20 is the Ethereum standard for fungible tokens, covering different types of cryptocurrencies, such as utility tokens, security tokens, and stablecoins
+  - Fungible tokens or assets are the ones whose value can be easily and objectively defined and are easily exchangable .
+- #### ERC721:
+
+  - ERC-721 is the Ethereum standard for non-fungible tokens(NFTs).
+  - NFTs are tokens that cannot be exchanaged easily and have unique identification
+
+- #### ERC 1155:
+  - Basically a combination of ERC20 and ERC721 tokens
+  - Creates fungibility independent tokens that are gas optimized for transactions.
+  - allows users to bundle multiple assets in one smart contract.
